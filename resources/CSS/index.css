@@ -4,7 +4,7 @@
 
 body {
     background-color: #04194e;    
-    width: 99%;
+    width: 99%;    
 }
 nav {
     text-align: center;
@@ -32,7 +32,7 @@ main {
 
 header {
     color: white;
-    background-color: black;       
+    background-color: black;     
     padding: 10px;
     font-weight: bold;
 }
