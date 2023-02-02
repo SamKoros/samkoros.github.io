@@ -4,14 +4,17 @@
 
 body {
     background-color: #04194e;    
-    width: 99%;    
+    width: 100%;   
+    margin: 0px;
+    padding: 0px;
+    height: 100vh; 
 }
 nav {
     text-align: center;
     background-color: #285f87;
     position: fixed;
     top: 0;
-    width: 99%;
+    width: 100%;
     z-index: 1;
 }
 nav ul li {
@@ -44,7 +47,7 @@ h1 {
 
 article {
     text-align: left;
-
+    padding-left: 1rem;
 }
 
 footer {
@@ -52,5 +55,5 @@ footer {
 }
 
 article p {
-    width: 50%;
+    width: 50%;    
 }
